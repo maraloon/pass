@@ -1,7 +1,6 @@
 ---
 priority: 0
 name: "Website login"
-prefix: "websites"
 name_from:
   - "url"
   - "username"
